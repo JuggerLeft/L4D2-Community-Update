@@ -1,6 +1,6 @@
 # L4D2-Community-Update
 
-Help us shape the potential future of L4D2 vanilla.
+Help us shape the potential future of L4D2 vanilla..
 
 Exploit fixes and PvP enhancements for the original 13 campaigns were done using VScript files.
 
